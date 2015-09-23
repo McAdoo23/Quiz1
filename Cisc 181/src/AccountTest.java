@@ -32,7 +32,7 @@ public class AccountTest {
 		int x = 0;
 		
 		while (x < 20) {
-			c.deposit(1000000000);
+			c.deposit(10000000);
 		}
 	}
 	@Test 

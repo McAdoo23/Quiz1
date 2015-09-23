@@ -1,7 +1,7 @@
 import java.util.Date;
 import java.io.*;
 public class Account {
-	//Data fields
+	//THe Data fields
 	private int id = 0;
 	private double balance = 0;
 	private double annualInterestRate = 0;
